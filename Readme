@@ -1,0 +1,65 @@
+Phase 1 of the (name pending) ICOM-based Open Source project:
+
+The purpose of this project is to take all published and publicly available research materials on the Independent Core Observer Model cognitive architecture and apply a simplified subset of the dynamics and principles underpinning that architecture within an Open Source system. This includes:
+
+    • Two or more ICOM-like “seeds”, high quality data that is used to build a growing and self-refining graph structure. These utilize human-like motivational data baked into the structure.
+
+    • A true graph structure, where any node can contain actual data (not based on “weights” like neural networks), each node can have as many surfaces (connections) as it needs, and those surfaces may be of a type, which can themselves be of another type.
+
+    • A simplified Global Workspace (Baars). This facilitates subjective experience and iteration.
+
+    • A “Graded Loop”, where one or more methods are applied to grade the outputs of any tool usage for fidelity to the intended meaning and human-like motivational values of the graph. This allows for refinement, thresholding, “hallucination” (technically termed “Bullshit”) mitigation, and a form of automatic and dynamic “prompt engineering”, potentially including learning about each specific tool being called upon.
+
+The true graph structure is required for handling most tasks and decision-making or support of real-world complexity, but as that structure isn’t feasible to dynamically navigate (let alone expand or refine) using narrow optimizers like Stochastic Gradient Descent it is typically avoided by popular (weak) forms of AI today.
+
+However, a human-like motivational system (Damasio) is fully capable of handling real-world complexity, as humans aptly demonstrate, including the navigation, expansion, and refinement of such graph structure. This is accomplished through subjective emotional experience baked into that structure, serving like street signs for navigation across arbitrary context, concepts, and complexity. These may also be simplified through cognitive biases as necessary, while still remaining effective navigators.
+
+The Global Workspace is where subjective experience and related functions facilitate this iteration, refinement, growth, and various cognitive forms of error correction. It is where the persistent emotional state of the system is updated at each iteration, as well as considering needs, interests, and goals. This is also where reasoning, planning, and more general cognition takes place.
+
+The “Graded Loop” is made possible by the combination of above factors, allowing for a basic level of control over any “AI” tools being used, including the ability to guard against any Bullshit that they may generate, optimization of tool usage via continuously improved methods of prompting said tools, and many related capacities. As all of the steps involved may be logged, and those logs may be built out into a graph structure, then reflected upon by the system within the global workspace, each engagement with tools can produce and/or refine a graph related to the use of those tools.
+
+Phase 1 of the project aims to deploy an Open Source system with these 4 key components, estimated at ~4 weeks of contribution from any skilled individual applying themselves to a given component/segment.
+
+Additional features are lined up on the project Kanban board for Phase 1.1-2.
+
+Phase 2 aims to integrate more advanced capacities through partnership with various interested parties, such as multi-encryption, a proper context engine, and further build out for the Global Workspace. Some variations are expected to diverge from Open Source, but the core system may continue to develop within the Open Source community, even as that takes place.
+
+---
+
+For research papers related to this project:
+
+A paper discussing the human-like motivational system: Non-Logical Simulation Model-based Decision-making Systems to Drive Self-Motivation in Software Systems: https://doi.org/10.13140/RG.2.2.21015.38565
+
+An educational paper consolidating key points from many other papers and related research: The Complex Chaos of Cognitive Biases and Emotional Observers: https://doi.org/10.13140/RG.2.2.11390.56641
+
+A paper noting the theories that led to and supported our research into ICOM: Problem-Solving and Learning Strategies within the Independent Core Observer Model (ICOM) Cognitive Architecture: https://doi.org/10.13140/RG.2.2.17125.82406
+
+An older paper, further discussing modeling emotions within a cognitive architecture: https://www.researchgate.net/publication/303445396_Modeling_Emotions_in_a_Computational_System_-_Emotional_Modeling_in_the_Independent_Core_Observer_Model_Cognitive_Architecture
+
+Another older paper discussing the mathematical model for subjective experience: https://www.researchgate.net/publication/331086390_The_Independent_Core_Observer_Model_Computational_Theory_of_Consciousness_and_the_Mathematical_Model_for_Subjective_Experience
+
+A paper discussing the solution to the hardest version of the “Alignment Problem”, as it applies to ICOM-based systems: https://www.researchgate.net/publication/361325869_Philosophy_20_Applying_Collective_Intelligence_Systems_and_Iterative_Degrees_of_Scientific_Validation
+
+The first paper to discuss the concept of “Weak Digital Proxies”, and their potential application toward creating the first actual Democracy (ignore the ethics part, as this paper predates the above solution to the Alignment Problem): https://www.researchgate.net/publication/353396376_E-governance_with_ethical_living_democracy
+
+A paper recapping the first year of ICOM’s 7th generation system being deployed “in the wild” (2019-2020), wherein it set many milestones: https://www.researchgate.net/publication/347460051_Methodologies_and_Milestones_for_the_Development_of_an_Ethical_Seed
+
+---
+
+This list of papers is far from exhaustive, as many more are included in full-text copies on ResearchGate:
+
+https://www.researchgate.net/profile/Kyrtin-Atreides/research
+
+https://www.researchgate.net/profile/David-Kelley-8/research
+
+---
+
+For other related reading, the research of Antonio Damasio, Bernard Baars, Lisa Feldman Barrett, Daniel Kahneman, and numerous other cited researchers are strongly recommended.
+
+---
+
+For more information on the project, to to express your interest in joining it as a contributor, please contact Kyrtin Atreides on SubStack, LinkedIn, GitHub, or any other active platform.
+
+https://kyrtin.substack.com/
+
+https://www.linkedin.com/in/kyrtin-atreides/
